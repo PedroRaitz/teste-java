@@ -1,6 +1,6 @@
-package com.example.pedroraitzclientes.projeto.domain.repositorio;
+package com.example.pedroraitzclientespedido.projeto.domain.repositorio;
 
-import com.example.pedroraitzclientes.projeto.domain.entity.Cliente;
+import com.example.pedroraitzclientespedido.projeto.domain.entity.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

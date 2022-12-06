@@ -1,8 +1,8 @@
-package com.example.pedroraitzclientes.projeto.rest.controller;
+package com.example.pedroraitzclientespedido.projeto.rest.controller;
 
 
-import com.example.pedroraitzclientes.projeto.domain.entity.Cliente;
-import com.example.pedroraitzclientes.projeto.domain.repositorio.Clientes;
+import com.example.pedroraitzclientespedido.projeto.domain.entity.Cliente;
+import com.example.pedroraitzclientespedido.projeto.domain.repositorio.Clientes;
 import org.springframework.data.domain.Example;
 import org.springframework.data.domain.ExampleMatcher;
 import org.springframework.http.HttpStatus;

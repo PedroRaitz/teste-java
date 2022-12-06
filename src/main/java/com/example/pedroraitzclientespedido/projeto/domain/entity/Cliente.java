@@ -1,4 +1,4 @@
-package com.example.pedroraitzclientes.projeto.domain.entity;
+package com.example.pedroraitzclientespedido.projeto.domain.entity;
 
 
 import jakarta.persistence.*;

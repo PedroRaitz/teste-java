@@ -1,4 +1,4 @@
-package com.example.pedroraitzclientes.projeto;
+package com.example.pedroraitzclientespedido.projeto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
